@@ -1,0 +1,8 @@
+build/
+.dart_tool/
+.packages
+.pub-cache/
+android/.gradle/
+ios/Pods/
+firebase-debug.log
+*.log
